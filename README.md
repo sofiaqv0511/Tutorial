@@ -4,7 +4,6 @@
 En este repositorio encontrarás un tutorial introductorio a Python, pensado para quienes desean aprender desde cero los conceptos fundamentales de este lenguaje. Aquí se explican de forma clara y práctica temas básicos como variables, estructuras de control, funciones, manejo de datos y mucho más.
 
 El objetivo es ofrecer una guía sencilla pero completa que te permita comprender la lógica de la programación en Python y aplicarla a tus propios proyectos. Además, el tutorial incluye ejemplos, ejercicios y explicaciones paso a paso para que puedas avanzar a tu propio ritmo.
-En resumen, este repositorio reúne lo esencial para comenzar tu camino en Python y desarrollar las bases necesarias para seguir aprendiendo temas más avanzados.
 
 **Contenido**
 1. Primeros Pasos
@@ -25,4 +24,6 @@ En resumen, este repositorio reúne lo esencial para comenzar tu camino en Pytho
 16. Creación de Nuevas Variables
 17. Agrupar y Resumir datos
 18. Exportar
-19. Gráfico Avanzado 
+19. Gráfico Avanzado
+
+En resumen, este repositorio reúne lo esencial para comenzar tu camino en Python y desarrollar las bases necesarias para seguir aprendiendo temas más avanzados.
